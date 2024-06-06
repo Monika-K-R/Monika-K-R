@@ -24,3 +24,4 @@ Outside the world of SQL, my life is filled with various passions that inspire m
 
 ## 📬 Let's Unite!
 I'm eager to connect with other professionals and discover new opportunities in the world of data. Connect with me on LinkedIn and let's see how we can work together.
+- **[LinkedIn](linkedin.com/in/monika-kasperczyk-rosa)**.
